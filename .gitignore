@@ -1,0 +1,18 @@
+﻿# Visual Studio 临时文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build 文件夹
+bin/
+obj/
+
+
+# NuGet
+*.nupkg
+packages/
+
+# 调试日志
+*.log
